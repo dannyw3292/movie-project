@@ -4,14 +4,20 @@
     opacity:0.6;
     position:absolute;
 }*/
+/*note to self, complete setup for paragraphs and positioning of image, title, other paragraphs*/
 .page{
     /*background-color:#196315;*/
     /*max-height:100%;*/
+    position:absolute;
+    /*margin:;*/
+    /*opacity:0;*/
 }
 .image{
     /*position:fixed;*/
     /*opacity:0.3;*/
     margin:50px 300px;
+    /*float:right;*/
+    
 }
 
 .title{
@@ -19,14 +25,22 @@
     font-family: 'Spectral SC', serif;
     background-color:lightgreen;
     /*margin:500px 200px;*/
-    left:50px;
-    top:100px;
+    /*left:50px;*/
+    top:20px;
     position:absolute;
     max-width:50%;
     max-height:100px;
+    
+    
 }
 
 p {
     font-family: 'Muli', sans-serif;
+    text-align:left;
+    top:100px;
+    /*position:absolute;*/
+    
+
+    
 }
 
