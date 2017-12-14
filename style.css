@@ -4,16 +4,20 @@
     opacity:0.6;
     position:absolute;
 }*/
-body{
-    background: url;
+.image{
+    position:fixed;
+    opacity:0.3;
 }
+
 .title{
     text-align:center;
     font-family: 'Spectral SC', serif;
     background-color:lightgreen;
-    opacity:0.7;
-    margin:500px 200px;
-    position:relative;
-    max-width:500px;
+    /*margin:500px 200px;*/
+    left:;
+    top:100px;
+    position:absolute;
+    max-width:50%;
+    max-height:100px;
 }
 
