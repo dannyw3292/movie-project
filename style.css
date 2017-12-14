@@ -4,9 +4,13 @@
     opacity:0.6;
     position:absolute;
 }*/
+.page{
+    /*background-color:#196315;*/
+    /*max-height:100%;*/
+}
 .image{
     /*position:fixed;*/
-    opacity:0.3;
+    /*opacity:0.3;*/
     margin:50px 300px;
 }
 
@@ -21,4 +25,5 @@
     max-width:50%;
     max-height:100px;
 }
+
 
