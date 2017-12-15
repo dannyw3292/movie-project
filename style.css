@@ -5,6 +5,7 @@
     position:absolute;
 }*/
 /*note to self, complete setup for paragraphs and positioning of image, title, other paragraphs*/
+/*2nd nts, section page and a background, background under pg and have a bg img for it similar to Mr Mueller preview*/
 .page{
     /*background-color:#196315;*/
     /*max-height:100%;*/
@@ -13,7 +14,7 @@
     /*opacity:0;*/
 }
 .image{
-    /*position:fixed;*/
+    /*position:absolute;*/
     /*opacity:0.3;*/
     margin:50px 300px;
     /*float:right;*/
@@ -27,20 +28,29 @@
     /*margin:500px 200px;*/
     /*left:50px;*/
     top:20px;
-    position:absolute;
+    /*position:absolute;*/
     max-width:50%;
     max-height:100px;
     
     
 }
-
-p {
+.body1 {
     font-family: 'Muli', sans-serif;
     text-align:left;
     top:100px;
-    /*position:absolute;*/
+    position:absolute;
+    float:left;
+    color:white;
     
 
     
+}
+/*body{*/
+/*    background-image: url("sep11-moviebg.jpg");*/
+    
+/*}*/
+/*PLACE HOLDER is below, REAL IS TOP*/
+body{
+    background-color:black;
 }
 
