@@ -1,32 +1,37 @@
-/* fonts to use: Spectral SC, Muli */
-
-/*.image{
-    opacity:0.6;
-    position:absolute;
-}*/
-.page{
-    /*background-color:#196315;*/
-    /*max-height:100%;*/
-}
 .image{
-    /*position:fixed;*/
+    /*position:absolute;*/
     /*opacity:0.3;*/
-    margin:50px 300px;
+    /*margin:50px 300px;*/
+    /*float:right;*/
 }
 
 .title{
-    text-align:center;
+    /*text-align:center;*/
     font-family: 'Spectral SC', serif;
-    background-color:lightgreen;
-    /*margin:500px 200px;*/
-    left:50px;
-    top:100px;
-    position:absolute;
+    background-color:red;
+    margin:500px 200px;
+
+    top:20px;
     max-width:50%;
     max-height:100px;
+    
+    
 }
-
+h1{
+    text-align:center;
+}
+hr{
+    color:white;
+    
+}
 p {
-    font-family: 'Muli', sans-serif;
+    font-family: 'Cardo', serif;
+    text-align:center;
+    /*top:100px;*/
+    /*position:relative;*/
+    float:left;
+    color:white;
 }
-
+body{
+    background-image: url("sep11-moviebg.jpg");
+}
